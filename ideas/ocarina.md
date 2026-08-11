@@ -106,6 +106,35 @@ is secretly the tunable-ocarina idea.
 - **Do this first:** cheapest build, directly serves the vibrato/texture goal, teaches Helmholtz
   intuition by feel.
 
+#### Build sheet: bladder mod on a real ocarina (no printing needed)
+
+**V1 — fully reversible, safe even on ceramic:**
+
+- Thread a small deflated bladder through one of the *larger finger holes*, on thin aquarium
+  airline tubing; seal the gap around the tube with poster putty (Blu Tack).
+- That hole now acts permanently "closed" — play with fingerings as if that finger were always
+  down. Peel off the putty afterward, instrument untouched.
+- **Bladder:** cut-off glove finger / finger cot, tied airtight onto the tubing. (Party balloons
+  need too much pressure before they expand; glove rubber inflates gently.)
+- **Air source:** blood-pressure-style squeeze bulb with bleed valve — pump to bend up, crack the
+  valve to bend down. Poor-man's version: blow into the tube and pinch it.
+- **Placement:** bladder toward the far end of the chamber, away from the fipple — near the
+  voicing window it disturbs the air jet and chokes the tone.
+
+**V2 — permanent port on a plastic donor:**
+
+- Drill ~4–5 mm far from the voicing window/labium, epoxy in a tube or aquarium airline
+  connector. All finger holes stay available.
+- **Do not drill ceramic** (diamond bit + water + luck, cracks anyway).
+
+**Expected physics:** inflating shrinks air volume → pitch rises (≈ semitone to a few semitones
+depending on bladder size vs. chamber). Even deflated, the bladder raises pitch slightly
+(displaced volume). Soft rubber absorbs sound → quieter, breathier as it inflates — the texture
+experiment hiding inside the tuning experiment.
+
+**First session protocol (tuner app running):** baseline note → insert deflated, note offset →
+inflate slowly, map bend range until the note chokes → pulse the bulb for vibrato.
+
 ### Project 2: Icecarina — reusable mold, freezer-cheap iteration
 
 A reusable silicone mold makes it reproducible: refill with water, freeze overnight, every failed
